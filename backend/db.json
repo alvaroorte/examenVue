@@ -1,0 +1,63 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "nombre": "finanzas",
+      "encargado": "Jose Linares",
+      "funcionario": 1
+    },
+    {
+      "id": 2,
+      "nombre": "legal",
+      "encargado": "Paola Callejo",
+      "funcionario": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Informáticaa",
+      "encargado": "Pedro Perez",
+      "funcionario": 3
+    },
+    {
+      "name": null,
+      "encargado": "bbbb",
+      "funcionario": 1,
+      "nombre": "aaaa",
+      "id": 4
+    }
+  ],
+  "activos": [
+    {
+      "id": 1,
+      "tipo": "computadora",
+      "marca": "HP",
+      "modelo": "pavillion",
+      "estado": "nuevo",
+      "areaId": 1
+    },
+    {
+      "id": 2,
+      "tipo": "impresora",
+      "marca": "Epson",
+      "modelo": "L221",
+      "estado": "usado",
+      "areaId": 2
+    },
+    {
+      "id": 3,
+      "tipo": "Escanerrr",
+      "marca": "HP",
+      "modelo": "P511",
+      "estado": "desuso",
+      "areaId": 1
+    },
+    {
+      "tipo": "aaaa",
+      "marca": "bbbb",
+      "modelo": "sadas",
+      "estado": "usado",
+      "areaId": 1,
+      "id": 4
+    }
+  ]
+}
